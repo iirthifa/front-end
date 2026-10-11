@@ -7,11 +7,11 @@ export const AuthIds = {
   BUTTON_SAVE: 7,
   BUTTON_DELETE: 8,
 
-  // Student module
-  STUDENT_VIEW: 10,
-  STUDENT_CREATE: 11,
-  STUDENT_UPDATE: 12,
-  STUDENT_DELETE: 13,
+  // Department module
+  DEPARTMENT_VIEW: 10,
+  DEPARTMENT_CREATE: 11,
+  DEPARTMENT_UPDATE: 12,
+  DEPARTMENT_DELETE: 13,
 
   // Course module
   COURSE_VIEW: 20,
